@@ -24,3 +24,5 @@ The HR Dashboard has resulted in several positive outcomes:
 - **Enhanced Efficiency:** Streamlined HR processes leading to improved workforce management.
 - **Better Resource Allocation:** Insights into overtime trends aid in optimizing resource allocation.
 - **Focused Interventions:** Targeted strategies for departments needing improvement or attention.
+
+<img src="powerbiss.png" width="900px">

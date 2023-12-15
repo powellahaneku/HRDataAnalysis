@@ -24,5 +24,3 @@ The HR Dashboard has resulted in several positive outcomes:
 - **Enhanced Efficiency:** Streamlined HR processes leading to improved workforce management.
 - **Better Resource Allocation:** Insights into overtime trends aid in optimizing resource allocation.
 - **Focused Interventions:** Targeted strategies for departments needing improvement or attention.
-
-In conclusion, the HR Dashboard on Power BI offers a comprehensive view of critical HR metrics, fostering informed decision-making and enabling proactive management of the organization's workforce.

@@ -15,7 +15,7 @@ The Home Page, Action Page, and Detail Page serve as an overview dashboard, pres
 - **Promotions by Department:** Visualizes promotions across different departments within the organization.
 - **Overtime Trends:** Highlights patterns of overtime hours worked by employees.
 
-
+<img src="hrdata.png">
 
 ## Results
 The HR Dashboard has resulted in several positive outcomes:
